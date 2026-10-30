@@ -1,6 +1,6 @@
 # ChessFlow
 
-[![CI](https://github.com/Karol-Malecki-dev/dotnet-react-starter/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Karol-Malecki-dev/dotnet-react-starter/actions/workflows/ci.yml)
+[![CI](https://github.com/Karol8284/ChessFlow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Karol8284/ChessFlow/actions/workflows/ci.yml)
 [![Licencja: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![.NET 9](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=20232A)](https://react.dev/)
